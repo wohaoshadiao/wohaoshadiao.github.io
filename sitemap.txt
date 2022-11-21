@@ -1,3 +1,4 @@
+http://example.com/2022/11/21/JetBrains%E8%AE%B8%E5%8F%AF%E8%AF%81%E7%94%B3%E8%AF%B7/
 http://example.com/2022/11/20/hexo-github-deploy/
 http://example.com/history/index.html
 http://example.com/2022/11/19/hello-world/

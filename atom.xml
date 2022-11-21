@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>萱萱的小狗窝</title>
+  <title>萱萱的小窝</title>
   
   <subtitle>Hexo</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-11-20T09:37:08.763Z</updated>
+  <updated>2022-11-21T09:58:38.220Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JetBrains许可证申请</title>
+    <link href="http://example.com/2022/11/21/JetBrains%E8%AE%B8%E5%8F%AF%E8%AF%81%E7%94%B3%E8%AF%B7/"/>
+    <id>http://example.com/2022/11/21/JetBrains%E8%AE%B8%E5%8F%AF%E8%AF%81%E7%94%B3%E8%AF%B7/</id>
+    <published>2022-11-21T09:54:48.000Z</published>
+    <updated>2022-11-21T09:58:38.220Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="免费教育许可证申领"><a href="#免费教育许可证申领" class="headerlink" title="免费教育许可证申领"></a>免费教育许可证申领</h1><h2 id="登录JetBrains官网"><a href="#登录JetBrains官网" class="headerlink" title="登录JetBrains官网"></a>登录JetBrains官网</h2><ul><li><ol><li>点击此处进入官网<a href="https://www.jetbrains.com/zh-cn/community/education/#students">点这里</a></li></ol></li></ul><p><img src="https://raw.githubusercontent.com/wohaoshadiao/image/main/data/202211211714262.png" alt="image-20221121171445039"></p><ol start="2"><li>按照要求填写完毕(仅限于EDU邮箱)</li></ol><p><img src="https://raw.githubusercontent.com/wohaoshadiao/image/main/data/202211211716673.png" alt="image-20221121171649603"></p><ol start="3"><li>学信网官方文件</li></ol><p><a href="https://www.chsi.com.cn/">点击链接跳转学信网</a>  登录学信网账号</p><p><img src="https://raw.githubusercontent.com/wohaoshadiao/image/main/data/202211211725584.png" alt="image-20221121172507292"></p><p>3.1 然后下载官方文件 ，在点击查看</p><p><img src="https://raw.githubusercontent.com/wohaoshadiao/image/main/data/202211211728029.png" alt="image-20221121172815904"></p><p><strong>下载所需要的pdf文件</strong></p><p><img src="https://raw.githubusercontent.com/wohaoshadiao/image/main/data/202211211730682.png" alt="image-20221121173048450"></p><p>返回JetBrains申请界面</p><p><img src="https://raw.githubusercontent.com/wohaoshadiao/image/main/data/202211211734931.png" alt="image-20221121173425717"></p><ul><li>出现这个界面就等着JB公司给你发消息就可以，一般需要等待15day</li></ul><p><img src="https://raw.githubusercontent.com/wohaoshadiao/image/main/data/202211211735913.png" alt="image-20221121173524771"></p><p>接收邮件确认列表</p><p><img src="https://raw.githubusercontent.com/wohaoshadiao/image/main/data/202211211758796.png" alt="image-20221121175007317"></p><p>在pycharm官网下载 Pycharm-professional 即可免费使用一年</p><p><img src="https://raw.githubusercontent.com/wohaoshadiao/image/main/data/202211211750281.png" alt="image-20221121175055192"></p><h3 id="拥有JetBrains许可证"><a href="#拥有JetBrains许可证" class="headerlink" title="拥有JetBrains许可证"></a>拥有JetBrains许可证</h3><ol><li>以下的这些都是JetBrains公司的产品，有兴趣的可以下载使用</li></ol><p><img src="https://raw.githubusercontent.com/wohaoshadiao/image/main/data/202211211752852.png" alt="image-20221121175204779"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;免费教育许可证申领&quot;&gt;&lt;a href=&quot;#免费教育许可证申领&quot; class=&quot;headerlink&quot; title=&quot;免费教育许可证申领&quot;&gt;&lt;/a&gt;免费教育许可证申领&lt;/h1&gt;&lt;h2 id=&quot;登录JetBrains官网&quot;&gt;&lt;a href=&quot;#登录JetBrains官</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>hexo-github-deploy</title>
