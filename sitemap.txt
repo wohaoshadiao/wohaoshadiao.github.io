@@ -1,5 +1,5 @@
-http://example.com/posts/58904/
-http://example.com/posts/19710/
-http://example.com/history/index.html
-http://example.com/posts/16107/
-http://example.com/
+https://wohaoshadiao.github.io/posts/58904/
+https://wohaoshadiao.github.io/posts/19710/
+https://wohaoshadiao.github.io/posts/16107/
+https://wohaoshadiao.github.io/history/index.html
+https://wohaoshadiao.github.io/
