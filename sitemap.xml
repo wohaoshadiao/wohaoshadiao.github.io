@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2022/11/21/JetBrains%E8%AE%B8%E5%8F%AF%E8%AF%81%E7%94%B3%E8%AF%B7/</loc>
+    <loc>http://example.com/posts/58904/</loc>
     
     <lastmod>2022-11-21</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/11/20/hexo-github-deploy/</loc>
+    <loc>http://example.com/posts/19710/</loc>
     
     <lastmod>2022-11-20</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/11/19/hello-world/</loc>
+    <loc>http://example.com/posts/16107/</loc>
     
     <lastmod>2022-11-18</lastmod>
     
@@ -40,7 +40,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2022-11-21</lastmod>
+    <lastmod>2022-11-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
